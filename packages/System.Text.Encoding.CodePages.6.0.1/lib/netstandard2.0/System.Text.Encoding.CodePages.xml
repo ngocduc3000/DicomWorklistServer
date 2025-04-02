@@ -1,0 +1,649 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>System.Text.Encoding.CodePages</name>
+    </assembly>
+    <members>
+        <member name="P:System.Text.CodePagesEncodingProvider.SystemDefaultCodePage">
+            <summary>Get the system default non-unicode code page, or 0 if not available.</summary>
+        </member>
+        <member name="P:System.SR.ArgumentNull_Array">
+            <summary>Array cannot be null.</summary>
+        </member>
+        <member name="P:System.SR.ArgumentOutOfRange_NeedNonNegNum">
+            <summary>Non-negative number required.</summary>
+        </member>
+        <member name="P:System.SR.ArgumentOutOfRange_IndexCount">
+            <summary>Index and count must refer to a location within the string.</summary>
+        </member>
+        <member name="P:System.SR.ArgumentOutOfRange_IndexCountBuffer">
+            <summary>Index and count must refer to a location within the buffer.</summary>
+        </member>
+        <member name="P:System.SR.NotSupported_NoCodepageData">
+            <summary>No data is available for encoding {0}.</summary>
+        </member>
+        <member name="P:System.SR.Argument_EncodingConversionOverflowBytes">
+            <summary>The output byte buffer is too small to contain the encoded data, encoding '{0}' fallback '{1}'.</summary>
+        </member>
+        <member name="P:System.SR.Argument_InvalidCharSequenceNoIndex">
+            <summary>String contains invalid Unicode code points.</summary>
+        </member>
+        <member name="P:System.SR.ArgumentOutOfRange_GetByteCountOverflow">
+            <summary>Too many characters. The resulting number of bytes is larger than what can be returned as an int.</summary>
+        </member>
+        <member name="P:System.SR.Argument_EncodingConversionOverflowChars">
+            <summary>The output char buffer is too small to contain the decoded characters, encoding '{0}' fallback '{1}'.</summary>
+        </member>
+        <member name="P:System.SR.ArgumentOutOfRange_GetCharCountOverflow">
+            <summary>Too many bytes. The resulting number of chars is larger than what can be returned as an int.</summary>
+        </member>
+        <member name="P:System.SR.Argument_EncoderFallbackNotEmpty">
+            <summary>Must complete Convert() operation or call Encoder.Reset() before calling GetBytes() or GetByteCount(). Encoder '{0}' fallback '{1}'.</summary>
+        </member>
+        <member name="P:System.SR.Argument_RecursiveFallback">
+            <summary>Recursive fallback not allowed for character \\u{0:X4}.</summary>
+        </member>
+        <member name="P:System.SR.Argument_RecursiveFallbackBytes">
+            <summary>Recursive fallback not allowed for bytes {0}.</summary>
+        </member>
+        <member name="P:System.SR.ArgumentOutOfRange_Range">
+            <summary>Valid values are between {0} and {1}, inclusive.</summary>
+        </member>
+        <member name="P:System.SR.Argument_CodepageNotSupported">
+            <summary>{0} is not a supported code page.</summary>
+        </member>
+        <member name="P:System.SR.ArgumentOutOfRange_Index">
+            <summary>Index was out of range. Must be non-negative and less than the size of the collection.</summary>
+        </member>
+        <member name="P:System.SR.MissingEncodingNameResource">
+            <summary>Could not find a resource entry for the encoding codepage '{0} - {1}'</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_37">
+            <summary>IBM EBCDIC (US-Canada)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_437">
+            <summary>OEM United States</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_500">
+            <summary>IBM EBCDIC (International)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_708">
+            <summary>Arabic (ASMO 708)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_720">
+            <summary>Arabic (DOS)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_737">
+            <summary>Greek (DOS)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_775">
+            <summary>Baltic (DOS)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_850">
+            <summary>Western European (DOS)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_852">
+            <summary>Central European (DOS)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_855">
+            <summary>OEM Cyrillic</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_857">
+            <summary>Turkish (DOS)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_858">
+            <summary>OEM Multilingual Latin I</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_860">
+            <summary>Portuguese (DOS)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_861">
+            <summary>Icelandic (DOS)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_862">
+            <summary>Hebrew (DOS)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_863">
+            <summary>French Canadian (DOS)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_864">
+            <summary>Arabic (864)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_865">
+            <summary>Nordic (DOS)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_866">
+            <summary>Cyrillic (DOS)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_869">
+            <summary>Greek, Modern (DOS)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_870">
+            <summary>IBM EBCDIC (Multilingual Latin-2)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_874">
+            <summary>Thai (Windows)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_875">
+            <summary>IBM EBCDIC (Greek Modern)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_932">
+            <summary>Japanese (Shift-JIS)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_936">
+            <summary>Chinese Simplified (GB2312)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_949">
+            <summary>Korean</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_950">
+            <summary>Chinese Traditional (Big5)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1026">
+            <summary>IBM EBCDIC (Turkish Latin-5)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1047">
+            <summary>IBM Latin-1</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1140">
+            <summary>IBM EBCDIC (US-Canada-Euro)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1141">
+            <summary>IBM EBCDIC (Germany-Euro)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1142">
+            <summary>IBM EBCDIC (Denmark-Norway-Euro)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1143">
+            <summary>IBM EBCDIC (Finland-Sweden-Euro)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1144">
+            <summary>IBM EBCDIC (Italy-Euro)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1145">
+            <summary>IBM EBCDIC (Spain-Euro)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1146">
+            <summary>IBM EBCDIC (UK-Euro)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1147">
+            <summary>IBM EBCDIC (France-Euro)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1148">
+            <summary>IBM EBCDIC (International-Euro)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1149">
+            <summary>IBM EBCDIC (Icelandic-Euro)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1250">
+            <summary>Central European (Windows)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1251">
+            <summary>Cyrillic (Windows)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1252">
+            <summary>Western European (Windows)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1253">
+            <summary>Greek (Windows)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1254">
+            <summary>Turkish (Windows)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1255">
+            <summary>Hebrew (Windows)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1256">
+            <summary>Arabic (Windows)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1257">
+            <summary>Baltic (Windows)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1258">
+            <summary>Vietnamese (Windows)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_1361">
+            <summary>Korean (Johab)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_10000">
+            <summary>Western European (Mac)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_10001">
+            <summary>Japanese (Mac)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_10002">
+            <summary>Chinese Traditional (Mac)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_10003">
+            <summary>Korean (Mac)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_10004">
+            <summary>Arabic (Mac)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_10005">
+            <summary>Hebrew (Mac)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_10006">
+            <summary>Greek (Mac)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_10007">
+            <summary>Cyrillic (Mac)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_10008">
+            <summary>Chinese Simplified (Mac)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_10010">
+            <summary>Romanian (Mac)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_10017">
+            <summary>Ukrainian (Mac)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_10021">
+            <summary>Thai (Mac)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_10029">
+            <summary>Central European (Mac)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_10079">
+            <summary>Icelandic (Mac)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_10081">
+            <summary>Turkish (Mac)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_10082">
+            <summary>Croatian (Mac)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20000">
+            <summary>Chinese Traditional (CNS)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20001">
+            <summary>TCA Taiwan</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20002">
+            <summary>Chinese Traditional (Eten)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20003">
+            <summary>IBM5550 Taiwan</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20004">
+            <summary>TeleText Taiwan</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20005">
+            <summary>Wang Taiwan</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20105">
+            <summary>Western European (IA5)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20106">
+            <summary>German (IA5)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20107">
+            <summary>Swedish (IA5)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20108">
+            <summary>Norwegian (IA5)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20261">
+            <summary>T.61</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20269">
+            <summary>ISO-6937</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20273">
+            <summary>IBM EBCDIC (Germany)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20277">
+            <summary>IBM EBCDIC (Denmark-Norway)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20278">
+            <summary>IBM EBCDIC (Finland-Sweden)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20280">
+            <summary>IBM EBCDIC (Italy)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20284">
+            <summary>IBM EBCDIC (Spain)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20285">
+            <summary>IBM EBCDIC (UK)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20290">
+            <summary>IBM EBCDIC (Japanese katakana)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20297">
+            <summary>IBM EBCDIC (France)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20420">
+            <summary>IBM EBCDIC (Arabic)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20423">
+            <summary>IBM EBCDIC (Greek)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20424">
+            <summary>IBM EBCDIC (Hebrew)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20833">
+            <summary>IBM EBCDIC (Korean Extended)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20838">
+            <summary>IBM EBCDIC (Thai)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20866">
+            <summary>Cyrillic (KOI8-R)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20871">
+            <summary>IBM EBCDIC (Icelandic)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20880">
+            <summary>IBM EBCDIC (Cyrillic Russian)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20905">
+            <summary>IBM EBCDIC (Turkish)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20924">
+            <summary>IBM Latin-1</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20932">
+            <summary>Japanese (JIS 0208-1990 and 0212-1990)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20936">
+            <summary>Chinese Simplified (GB2312-80)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_20949">
+            <summary>Korean Wansung</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_21025">
+            <summary>IBM EBCDIC (Cyrillic Serbian-Bulgarian)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_21027">
+            <summary>Ext Alpha Lowercase</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_21866">
+            <summary>Cyrillic (KOI8-U)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_28592">
+            <summary>Central European (ISO)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_28593">
+            <summary>Latin 3 (ISO)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_28594">
+            <summary>Baltic (ISO)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_28595">
+            <summary>Cyrillic (ISO)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_28596">
+            <summary>Arabic (ISO)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_28597">
+            <summary>Greek (ISO)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_28598">
+            <summary>Hebrew (ISO-Visual)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_28599">
+            <summary>Turkish (ISO)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_28603">
+            <summary>Estonian (ISO)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_28605">
+            <summary>Latin 9 (ISO)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_29001">
+            <summary>Europa</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_38598">
+            <summary>Hebrew (ISO-Logical)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_50000">
+            <summary>User Defined</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_50220">
+            <summary>Japanese (JIS)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_50221">
+            <summary>Japanese (JIS-Allow 1 byte Kana)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_50222">
+            <summary>Japanese (JIS-Allow 1 byte Kana - SO/SI)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_50225">
+            <summary>Korean (ISO)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_50227">
+            <summary>Chinese Simplified (ISO-2022)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_50229">
+            <summary>Chinese Traditional (ISO-2022)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_50930">
+            <summary>IBM EBCDIC (Japanese and Japanese Katakana)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_50931">
+            <summary>IBM EBCDIC (Japanese and US-Canada)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_50933">
+            <summary>IBM EBCDIC (Korean and Korean Extended)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_50935">
+            <summary>IBM EBCDIC (Simplified Chinese)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_50937">
+            <summary>IBM EBCDIC (Traditional Chinese)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_50939">
+            <summary>IBM EBCDIC (Japanese and Japanese-Latin)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_51932">
+            <summary>Japanese (EUC)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_51936">
+            <summary>Chinese Simplified (EUC)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_51949">
+            <summary>Korean (EUC)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_52936">
+            <summary>Chinese Simplified (HZ)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_54936">
+            <summary>Chinese Simplified (GB18030)</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_57002">
+            <summary>ISCII Devanagari</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_57003">
+            <summary>ISCII Bengali</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_57004">
+            <summary>ISCII Tamil</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_57005">
+            <summary>ISCII Telugu</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_57006">
+            <summary>ISCII Assamese</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_57007">
+            <summary>ISCII Oriya</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_57008">
+            <summary>ISCII Kannada</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_57009">
+            <summary>ISCII Malayalam</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_57010">
+            <summary>ISCII Gujarati</summary>
+        </member>
+        <member name="P:System.SR.Globalization_cp_57011">
+            <summary>ISCII Punjabi</summary>
+        </member>
+        <member name="T:System.Diagnostics.CodeAnalysis.AllowNullAttribute">
+            <summary>Specifies that null is allowed as an input even if the corresponding type disallows it.</summary>
+        </member>
+        <member name="T:System.Diagnostics.CodeAnalysis.DisallowNullAttribute">
+            <summary>Specifies that null is disallowed as an input even if the corresponding type allows it.</summary>
+        </member>
+        <member name="T:System.Diagnostics.CodeAnalysis.MaybeNullAttribute">
+            <summary>Specifies that an output may be null even if the corresponding type disallows it.</summary>
+        </member>
+        <member name="T:System.Diagnostics.CodeAnalysis.NotNullAttribute">
+            <summary>Specifies that an output will not be null even if the corresponding type allows it. Specifies that an input argument was not null when the call returns.</summary>
+        </member>
+        <member name="T:System.Diagnostics.CodeAnalysis.MaybeNullWhenAttribute">
+            <summary>Specifies that when a method returns <see cref="P:System.Diagnostics.CodeAnalysis.MaybeNullWhenAttribute.ReturnValue"/>, the parameter may be null even if the corresponding type disallows it.</summary>
+        </member>
+        <member name="M:System.Diagnostics.CodeAnalysis.MaybeNullWhenAttribute.#ctor(System.Boolean)">
+            <summary>Initializes the attribute with the specified return value condition.</summary>
+            <param name="returnValue">
+            The return value condition. If the method returns this value, the associated parameter may be null.
+            </param>
+        </member>
+        <member name="P:System.Diagnostics.CodeAnalysis.MaybeNullWhenAttribute.ReturnValue">
+            <summary>Gets the return value condition.</summary>
+        </member>
+        <member name="T:System.Diagnostics.CodeAnalysis.NotNullWhenAttribute">
+            <summary>Specifies that when a method returns <see cref="P:System.Diagnostics.CodeAnalysis.NotNullWhenAttribute.ReturnValue"/>, the parameter will not be null even if the corresponding type allows it.</summary>
+        </member>
+        <member name="M:System.Diagnostics.CodeAnalysis.NotNullWhenAttribute.#ctor(System.Boolean)">
+            <summary>Initializes the attribute with the specified return value condition.</summary>
+            <param name="returnValue">
+            The return value condition. If the method returns this value, the associated parameter will not be null.
+            </param>
+        </member>
+        <member name="P:System.Diagnostics.CodeAnalysis.NotNullWhenAttribute.ReturnValue">
+            <summary>Gets the return value condition.</summary>
+        </member>
+        <member name="T:System.Diagnostics.CodeAnalysis.NotNullIfNotNullAttribute">
+            <summary>Specifies that the output will be non-null if the named parameter is non-null.</summary>
+        </member>
+        <member name="M:System.Diagnostics.CodeAnalysis.NotNullIfNotNullAttribute.#ctor(System.String)">
+            <summary>Initializes the attribute with the associated parameter name.</summary>
+            <param name="parameterName">
+            The associated parameter name.  The output will be non-null if the argument to the parameter specified is non-null.
+            </param>
+        </member>
+        <member name="P:System.Diagnostics.CodeAnalysis.NotNullIfNotNullAttribute.ParameterName">
+            <summary>Gets the associated parameter name.</summary>
+        </member>
+        <member name="T:System.Diagnostics.CodeAnalysis.DoesNotReturnAttribute">
+            <summary>Applied to a method that will never return under any circumstance.</summary>
+        </member>
+        <member name="T:System.Diagnostics.CodeAnalysis.DoesNotReturnIfAttribute">
+            <summary>Specifies that the method will not return if the associated Boolean parameter is passed the specified value.</summary>
+        </member>
+        <member name="M:System.Diagnostics.CodeAnalysis.DoesNotReturnIfAttribute.#ctor(System.Boolean)">
+            <summary>Initializes the attribute with the specified parameter value.</summary>
+            <param name="parameterValue">
+            The condition parameter value. Code after the method will be considered unreachable by diagnostics if the argument to
+            the associated parameter matches this value.
+            </param>
+        </member>
+        <member name="P:System.Diagnostics.CodeAnalysis.DoesNotReturnIfAttribute.ParameterValue">
+            <summary>Gets the condition parameter value.</summary>
+        </member>
+        <member name="T:System.Diagnostics.CodeAnalysis.MemberNotNullAttribute">
+            <summary>Specifies that the method or property will ensure that the listed field and property members have not-null values.</summary>
+        </member>
+        <member name="M:System.Diagnostics.CodeAnalysis.MemberNotNullAttribute.#ctor(System.String)">
+            <summary>Initializes the attribute with a field or property member.</summary>
+            <param name="member">
+            The field or property member that is promised to be not-null.
+            </param>
+        </member>
+        <member name="M:System.Diagnostics.CodeAnalysis.MemberNotNullAttribute.#ctor(System.String[])">
+            <summary>Initializes the attribute with the list of field and property members.</summary>
+            <param name="members">
+            The list of field and property members that are promised to be not-null.
+            </param>
+        </member>
+        <member name="P:System.Diagnostics.CodeAnalysis.MemberNotNullAttribute.Members">
+            <summary>Gets field or property member names.</summary>
+        </member>
+        <member name="T:System.Diagnostics.CodeAnalysis.MemberNotNullWhenAttribute">
+            <summary>Specifies that the method or property will ensure that the listed field and property members have not-null values when returning with the specified return value condition.</summary>
+        </member>
+        <member name="M:System.Diagnostics.CodeAnalysis.MemberNotNullWhenAttribute.#ctor(System.Boolean,System.String)">
+            <summary>Initializes the attribute with the specified return value condition and a field or property member.</summary>
+            <param name="returnValue">
+            The return value condition. If the method returns this value, the associated parameter will not be null.
+            </param>
+            <param name="member">
+            The field or property member that is promised to be not-null.
+            </param>
+        </member>
+        <member name="M:System.Diagnostics.CodeAnalysis.MemberNotNullWhenAttribute.#ctor(System.Boolean,System.String[])">
+            <summary>Initializes the attribute with the specified return value condition and list of field and property members.</summary>
+            <param name="returnValue">
+            The return value condition. If the method returns this value, the associated parameter will not be null.
+            </param>
+            <param name="members">
+            The list of field and property members that are promised to be not-null.
+            </param>
+        </member>
+        <member name="P:System.Diagnostics.CodeAnalysis.MemberNotNullWhenAttribute.ReturnValue">
+            <summary>Gets the return value condition.</summary>
+        </member>
+        <member name="P:System.Diagnostics.CodeAnalysis.MemberNotNullWhenAttribute.Members">
+            <summary>Gets field or property member names.</summary>
+        </member>
+        <member name="T:System.Runtime.Versioning.OSPlatformAttribute">
+            <summary>
+            Base type for all platform-specific API attributes.
+            </summary>
+        </member>
+        <member name="T:System.Runtime.Versioning.TargetPlatformAttribute">
+            <summary>
+            Records the platform that the project targeted.
+            </summary>
+        </member>
+        <member name="T:System.Runtime.Versioning.SupportedOSPlatformAttribute">
+             <summary>
+             Records the operating system (and minimum version) that supports an API. Multiple attributes can be
+             applied to indicate support on multiple operating systems.
+             </summary>
+             <remarks>
+             Callers can apply a <see cref="T:System.Runtime.Versioning.SupportedOSPlatformAttribute" />
+             or use guards to prevent calls to APIs on unsupported operating systems.
+            
+             A given platform should only be specified once.
+             </remarks>
+        </member>
+        <member name="T:System.Runtime.Versioning.UnsupportedOSPlatformAttribute">
+            <summary>
+            Marks APIs that were removed in a given operating system version.
+            </summary>
+            <remarks>
+            Primarily used by OS bindings to indicate APIs that are only available in
+            earlier versions.
+            </remarks>
+        </member>
+        <member name="T:System.Runtime.Versioning.SupportedOSPlatformGuardAttribute">
+             <summary>
+             Annotates a custom guard field, property or method with a supported platform name and optional version.
+             Multiple attributes can be applied to indicate guard for multiple supported platforms.
+             </summary>
+             <remarks>
+             Callers can apply a <see cref="T:System.Runtime.Versioning.SupportedOSPlatformGuardAttribute" /> to a field, property or method
+             and use that field, property or method in a conditional or assert statements in order to safely call platform specific APIs.
+            
+             The type of the field or property should be boolean, the method return type should be boolean in order to be used as platform guard.
+             </remarks>
+        </member>
+        <member name="T:System.Runtime.Versioning.UnsupportedOSPlatformGuardAttribute">
+             <summary>
+             Annotates the custom guard field, property or method with an unsupported platform name and optional version.
+             Multiple attributes can be applied to indicate guard for multiple unsupported platforms.
+             </summary>
+             <remarks>
+             Callers can apply a <see cref="T:System.Runtime.Versioning.UnsupportedOSPlatformGuardAttribute" /> to a field, property or method
+             and use that  field, property or method in a conditional or assert statements as a guard to safely call APIs unsupported on those platforms.
+            
+             The type of the field or property should be boolean, the method return type should be boolean in order to be used as platform guard.
+             </remarks>
+        </member>
+    </members>
+</doc>

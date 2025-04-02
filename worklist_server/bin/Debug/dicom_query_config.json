@@ -1,0 +1,15 @@
+{
+  "Table": "Procedures",
+  "Mapping": {
+    "(0010,0020)": "PatientID",
+    "(0010,0010)": "PatientName",
+    "(0008,0060)": "Modality",
+    "(0010,0040)": "PatientSex"
+  },
+  "Conditions": [
+    "(@PatientID = '' OR PatientID = @PatientID)",
+    "(@PatientName = '' OR PatientName = @PatientName)",
+    "(@Modality = '' OR Modality = @Modality)",
+    "(@PatientSex = '' OR PatientSex = @PatientSex)"
+  ]
+}

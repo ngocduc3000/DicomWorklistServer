@@ -1,0 +1,294 @@
+[2025-03-31 11:14:10] - [MODALITY_AE-127.0.0.1]: Rejected: Unauthorized modality
+[2025-03-31 11:14:10] - [MODALITY_AE-127.0.0.1]: Rejected: Unauthorized modality
+[2025-03-31 11:14:10] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:14:10] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:15:10] - [MODALITY_AE-127.0.0.1]: Rejected: Unauthorized modality
+[2025-03-31 11:15:10] - [MODALITY_AE-127.0.0.1]: Rejected: Unauthorized modality
+[2025-03-31 11:15:10] - [MODALITY_AE-127.0.0.1]: Rejected: Unauthorized modality
+[2025-03-31 11:15:10] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:15:10] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:15:10] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:15:10] - [MODALITY_AE-127.0.0.1]: Rejected: Unauthorized modality
+[2025-03-31 11:15:10] - [MODALITY_AE-127.0.0.1]: Rejected: Unauthorized modality
+[2025-03-31 11:15:10] - [MODALITY_AE-127.0.0.1]: Rejected: Unauthorized modality
+[2025-03-31 11:15:10] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:15:10] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:15:10] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:16:51] - [MODALITY_AE-127.0.0.1]: Rejected: Unauthorized modality
+[2025-03-31 11:16:51] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:16:51] - [MODALITY_AE-127.0.0.1]: Rejected: Unauthorized modality
+[2025-03-31 11:16:51] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:17:30] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:17:30] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:17:30] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:17:30] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:17:30] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:17:30] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:17:30] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:17:30] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:17:30] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:17:30] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:17:31] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:17:31] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:17:31] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:17:31] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:17:31] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:17:31] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:17:52] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:17:52] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:17:52] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:17:52] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:17:52] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:17:52] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:17:52] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:17:52] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:17:53] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:17:54] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:17:54] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:17:54] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:17:54] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:17:54] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:17:54] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:17:54] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:17:54] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:17:54] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:17:54] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:17:54] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:17:54] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:17:54] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:17:54] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:17:54] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:17:54] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:01] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:01] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:01] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:01] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:01] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:01] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:01] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:01] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:02] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:02] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:02] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:02] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:02] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:02] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:02] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:02] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:03] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:03] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:03] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:03] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:03] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:03] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:03] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:03] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:03] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:03] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:03] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:03] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:03] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:03] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:03] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:03] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:04] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:04] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:04] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:04] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:04] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:04] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:04] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:04] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:04] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:04] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:04] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:04] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:04] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:04] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:04] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:04] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:38] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:38] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:38] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:38] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:38] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:38] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:38] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:38] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:38] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:38] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:38] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:38] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:38] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:38] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:38] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:38] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:41] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:41] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:41] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:41] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:41] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:41] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:42] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:42] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:42] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:42] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:42] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:42] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:42] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:42] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:42] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:42] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:52] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:52] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:52] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:52] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:52] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:52] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:52] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:52] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:52] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:52] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:18:52] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:52] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:18:52] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:52] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:18:52] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:18:52] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 11:34:44] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 11:34:44] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 11:34:44] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 11:34:44] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 12:13:21] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 12:13:21] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 12:13:21] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 12:13:21] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 12:19:01] - [MODALITY_AE-127.0.0.1]: Rejected: Unknown Called AE Title WorklistApp
+[2025-03-31 12:19:01] - [MODALITY_AE-127.0.0.1]: Rejected: Unknown Called AE Title WorklistApp
+[2025-03-31 12:19:01] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 12:19:01] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 12:20:22] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 12:20:22] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 12:20:22] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 12:20:22] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 12:20:22] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 12:20:22] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 12:20:23] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 12:20:23] - [MODALITY_AE-127.0.0.1]: Connection closed normally.
+[2025-03-31 14:30:55] - [MODALITY_AE-127.0.0.1]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-31 14:30:55] - [MODALITY_AE-127.0.0.1]: DICOM Request Tags:
+Modality: MR
+
+[2025-03-31 14:30:55] - [MODALITY_AE-127.0.0.1]: PatientName in DICOM Dataset: Smith^Jane
+[2025-03-31 14:30:55] - [MODALITY_AE-127.0.0.1]: Connection closed normally.

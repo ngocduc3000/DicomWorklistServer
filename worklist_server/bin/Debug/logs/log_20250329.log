@@ -1,0 +1,60 @@
+[2025-03-29 01:19:16] - [CT_01-192.168.1.35]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-29 01:19:16] - [CT_01-192.168.1.35]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-29 01:19:17] - [CT_01-192.168.1.35]: DICOM Request Tags:
+Modality: CT
+
+[2025-03-29 01:19:17] - [CT_01-192.168.1.35]: DICOM Request Tags:
+Modality: CT
+
+[2025-03-29 01:19:17] - [CT_01-192.168.1.35]: PatientName in DICOM Dataset: Nguen Ngoc Đuc
+[2025-03-29 01:19:17] - [CT_01-192.168.1.35]: PatientName in DICOM Dataset: Nguen Ngoc Đuc
+[2025-03-29 01:19:17] - [CT_01-192.168.1.35]: Connection closed normally.
+[2025-03-29 01:19:17] - [CT_01-192.168.1.35]: Connection closed normally.
+[2025-03-29 01:22:13] - [CT_01-192.168.1.35]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-29 01:22:13] - [CT_01-192.168.1.35]: DICOM Request Tags:
+Modality: CT
+
+[2025-03-29 01:22:13] - [CT_01-192.168.1.35]: PatientName in DICOM Dataset: Nguen Ngoc Đuc
+[2025-03-29 01:22:13] - [CT_01-192.168.1.35]: Connection closed normally.
+[2025-03-29 01:22:35] - [CT_01-192.168.1.35]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-29 01:22:35] - [CT_01-192.168.1.35]: DICOM Request Tags:
+Modality: CT
+
+[2025-03-29 01:22:35] - [CT_01-192.168.1.35]: PatientName in DICOM Dataset: Nguen Ngoc Đuc
+[2025-03-29 01:22:35] - [CT_01-192.168.1.35]: Connection closed normally.
+[2025-03-29 01:22:57] - [CT_01-192.168.1.35]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-29 01:22:57] - [CT_01-192.168.1.35]: DICOM Request Tags:
+Modality: CT
+
+[2025-03-29 01:22:57] - [CT_01-192.168.1.35]: PatientName in DICOM Dataset: Nguen Ngoc Đuc
+[2025-03-29 01:22:57] - [CT_01-192.168.1.35]: Connection closed normally.
+[2025-03-29 01:25:08] - [CT_01-192.168.1.35]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-29 01:25:08] - [CT_01-192.168.1.35]: DICOM Request Tags:
+Modality: CT
+
+[2025-03-29 01:25:08] - [CT_01-192.168.1.35]: PatientName in DICOM Dataset: Nguen Ngoc Đuc
+[2025-03-29 01:25:08] - [CT_01-192.168.1.35]: Connection closed normally.
+[2025-03-29 01:27:31] - [CT_01-192.168.1.35]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-29 01:27:32] - [CT_01-192.168.1.35]: DICOM Request Tags:
+Modality: CT
+
+[2025-03-29 01:27:32] - [CT_01-192.168.1.35]: PatientName in DICOM Dataset: Nguen Ngoc Đuc
+[2025-03-29 01:27:32] - [CT_01-192.168.1.35]: Connection closed normally.
+[2025-03-29 01:27:41] - [CT_01-192.168.1.35]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-29 01:27:41] - [CT_01-192.168.1.35]: DICOM Request Tags:
+Modality: CT
+
+[2025-03-29 01:27:41] - [CT_01-192.168.1.35]: PatientName in DICOM Dataset: Nguen Ngoc Đuc
+[2025-03-29 01:27:41] - [CT_01-192.168.1.35]: Connection closed normally.
+[2025-03-29 01:29:06] - [CT_01-192.168.1.35]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-29 01:29:06] - [CT_01-192.168.1.35]: DICOM Request Tags:
+Modality: CT
+
+[2025-03-29 01:29:06] - [CT_01-192.168.1.35]: PatientName in DICOM Dataset: Nguen Ngoc Đuc
+[2025-03-29 01:29:06] - [CT_01-192.168.1.35]: Connection closed normally.
+[2025-03-29 01:30:06] - [CT_01-192.168.1.35]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-03-29 01:30:06] - [CT_01-192.168.1.35]: DICOM Request Tags:
+Modality: CT
+
+[2025-03-29 01:30:06] - [CT_01-192.168.1.35]: PatientName in DICOM Dataset: Nguen Ngoc Đuc
+[2025-03-29 01:30:06] - [CT_01-192.168.1.35]: Connection closed normally.

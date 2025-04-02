@@ -1,0 +1,118 @@
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\worklist_server.exe.config
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\worklist_server.exe
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\worklist_server.pdb
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\CommunityToolkit.HighPerformance.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Dicom.Core.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\fo-dicom.core.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Buffers.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Memory.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Threading.Channels.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\CommunityToolkit.HighPerformance.pdb
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\CommunityToolkit.HighPerformance.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Dicom.Core.pdb
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Dicom.Core.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\fo-dicom.core.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Buffers.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Memory.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Threading.Channels.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\source\repos\worklist_server\worklist_server\obj\Debug\worklist_server.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\worklist_server\worklist_server\obj\Debug\worklist_server.Properties.Resources.resources
+C:\Users\Admin\source\repos\worklist_server\worklist_server\obj\Debug\worklist_server.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\worklist_server\worklist_server\obj\Debug\worklist_server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\worklist_server\worklist_server\obj\Debug\worklist.D7FCB164.Up2Date
+C:\Users\Admin\source\repos\worklist_server\worklist_server\obj\Debug\worklist_server.exe
+C:\Users\Admin\source\repos\worklist_server\worklist_server\obj\Debug\worklist_server.pdb
+C:\Users\Admin\source\repos\worklist_server\worklist_server\obj\Debug\worklist_server.MainForm.resources
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\app.ico
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\worklist_server.exe.config
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\worklist_server.exe
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\worklist_server.pdb
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\CommunityToolkit.HighPerformance.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Dicom.Core.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\fo-dicom.core.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Newtonsoft.Json.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Buffers.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Memory.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Numerics.Vectors.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Text.Encodings.Web.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Text.Json.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Threading.Channels.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.ValueTuple.dll
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\CommunityToolkit.HighPerformance.pdb
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\CommunityToolkit.HighPerformance.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Dicom.Core.pdb
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Dicom.Core.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\fo-dicom.core.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\Newtonsoft.Json.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Buffers.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Memory.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Numerics.Vectors.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Text.Encodings.Web.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Text.Json.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Threading.Channels.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\bin\Debug\System.ValueTuple.xml
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\obj\Debug\worklist_server.csproj.AssemblyReference.cache
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\obj\Debug\worklist_server.FormResetTrial.resources
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\obj\Debug\worklist_server.MainForm.resources
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\obj\Debug\worklist_server.Properties.Resources.resources
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\obj\Debug\worklist_server.csproj.GenerateResource.cache
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\obj\Debug\worklist_server.csproj.CoreCompileInputs.cache
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\obj\Debug\worklist.D7FCB164.Up2Date
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\obj\Debug\worklist_server.exe
+D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\obj\Debug\worklist_server.pdb

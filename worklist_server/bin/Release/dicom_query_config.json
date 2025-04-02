@@ -1,0 +1,11 @@
+{
+  "Table": "QLPK_ThongtinBenhnhan",
+  "Mapping": {
+    "(0010,0020)": "MaBN",
+    "(0010,0010)": "HotenBN"
+  },
+  "Conditions": [
+    "(@MaBN = '' OR MaBN = @MaBN)",
+    "AND (@HotenBN = '' OR HotenBN = @HotenBN)"
+  ]
+}
